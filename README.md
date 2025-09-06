@@ -1,11 +1,11 @@
 # Base Mini App with Ramp Network
 
-A clean, modern Next.js miniapp that integrates with Ramp Network to allow users to buy crypto directly on the Base network.
+A clean, modern Next.js miniapp that integrates with Ramp Network to allow users to buy additional crypto directly on the Base wallet.
 
 ## Features
 
 - 🚀 **Ramp Network Integration** - Buy USDC and ETH directly with fiat
-- 💳 **Multiple Payment Methods** - Support for USD, EUR, GBP
+- 💳 **Multiple Payment Methods** - Support for USD, EUR, GBP, PLN
 - 🔗 **MiniKit Wallet Connection** - Seamless wallet integration
 - 📱 **Responsive Design** - Works on all devices
 - 🎨 **Modern UI** - Clean, beautiful interface with Tailwind CSS
